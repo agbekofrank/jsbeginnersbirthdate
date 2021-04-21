@@ -1,0 +1,16 @@
+.form{
+    margin-top: 10rem;
+    /* display: flex;
+    flex-direction: row; */
+}
+
+.input {
+    height:2.0rem; width:14rem; padding-left:1rem;
+}
+.btn {
+    height: 2.2rem;
+    /* width: 1.2rem; */
+}
+/* .box{
+
+} */
